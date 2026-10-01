@@ -2,10 +2,6 @@
 
 
 
-##### Video Demo: https://youtu.be/AGAL-f3D1X8
-
-
-
 #### Description:
 
 The Money Tree is a personal finance tracker web application that helps users manage
